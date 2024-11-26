@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/M-krithika/argocd.git
+    repoURL: https://github.com/M-krithika/argocd/argocd-demo-app.yaml.git
     targetRevision: HEAD
     path: .
 
